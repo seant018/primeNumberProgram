@@ -5,7 +5,6 @@ def main():
     # requires a file named "data.txt", which must have a number only
     f = open("data.txt")
     num = int(f.read())
-    #input("press Ctrl-C to quit. Press Enter to begin.")
     f.close()
 
     while True:

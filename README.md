@@ -1,1 +1,2 @@
 # primeNumberProgram
+A simple program to calculate prime numbers. A file called data.txt is required to run the program, and it must have only a number inside. No letters or special characters, a number ONLY.
